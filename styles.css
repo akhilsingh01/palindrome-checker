@@ -24,6 +24,18 @@ body {
   font-size: 35px;
 }
 
+.author img {
+  position: relative;
+  top: 4px;
+  right: 5px;
+  user-select: none;
+}
+
+.author a{
+  text-decoration: none;
+  color: white;
+}
+
 .title {
   padding: 10px 0;
   margin-bottom: 20px;
