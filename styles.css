@@ -60,15 +60,17 @@ body {
   border-width: 0 0 2px 0;
   border-bottom-color : rgb(114, 0, 172);
   outline-color: black;
-  padding: 8px 30px;
-  margin: 25px 15px 10px 10px;
+  width: 230px;
+  height: 30px;
+  padding: 0 10px;
+  margin: 20px 15px 10px 10px;
 }
 
 .palindrome-btn {
   background-color: rgb(114, 0, 172);
   color: white;
   padding: 10px 25px;
-  margin-top: 20px;
+  margin-top: 12px;
   border-radius: 15px;
   border: none;
 }
