@@ -11,8 +11,8 @@ A responsive web app to check whether a given text is a palindrome. Built using 
 
 ## 🚀 Live Demo
 
-You can play the game directly here:
-👉 [Play the Game](https://akhilsingh01.github.io/palindrome-checker/)
+You can visit directly here:
+👉 [Visit the site](https://akhilsingh01.github.io/palindrome-checker/)
 
 ### or run the project locally:
 
@@ -21,7 +21,7 @@ You can play the game directly here:
    git clone https://github.com/akhilsingh01/palindrome-checker.git
    ```
 2. Open index.html in any web browser.
-3. Use the on-screen buttons to play the game.
+3. Use it using keyboard and mouse.
 
 ## 📚 What I Learned
 - DOM manipulation
